@@ -143,7 +143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 36e7a29cc902ab54c9fd8efb94c4835e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ballSpeed: 0.02
+  ballSpeed: 0.08
   moveVector: {x: 0, y: 0, z: 0}
   eventSystem: {fileID: 3944834240352532515, guid: 0d68c502d7f600242ac3e5f5f12a06ac,
     type: 3}
